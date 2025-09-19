@@ -4,9 +4,10 @@
 ### https://discord.gg/8fmWZ97FAF for support or suggestions.
 ## A slick customizable overlay for streamers.
 
-<img width="536" height="456" alt="image" src="https://github.com/user-attachments/assets/2d3701b4-5125-4cfa-a048-4c46ec8a452d" />
-<img width="538" height="631" alt="image" src="https://github.com/user-attachments/assets/45ab6721-98da-4c61-a52f-2ea56c32bfbd" />
-<img width="541" height="292" alt="image" src="https://github.com/user-attachments/assets/ee8fb777-edd9-48a4-868c-3ca111df735d" />
+<img width="547" height="688" alt="image" src="https://github.com/user-attachments/assets/660dd37c-8f45-45ab-a6be-823cc7e430db" />
+<img width="542" height="661" alt="image" src="https://github.com/user-attachments/assets/ba15b831-7ca5-4ee3-8e8f-9d587ace6219" />
+<img width="495" height="96" alt="image" src="https://github.com/user-attachments/assets/f7bfa573-8ba1-4fdf-af72-0c3d5f928dcc" />
+
 
 > [!WARNING]
 > IF I CATCH ANYONE REUSING THIS AND GIVING IT OUT AS THEIR OWN YOU COULD GET SUED.
