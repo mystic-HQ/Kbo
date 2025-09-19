@@ -15,3 +15,4 @@
 > [!NOTE]
 > This app is still under development.
 
+Copyright [2025] [Mystic-HQ]
